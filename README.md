@@ -2,6 +2,7 @@
 
 # QSOF-TASK-4-SCREENING-2021
 Task 4 solution of Screening Tasks for QSOF mentorship program
+Check the .ipynb file for the code
 
 
 
